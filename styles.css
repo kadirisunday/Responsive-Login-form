@@ -1,0 +1,44 @@
+.header1{
+	width: inherit;
+	margin: 30px auto 0px;
+	background: #1d8394;
+	text-align: center;
+	border: 1px solid #1d8394;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+	font-family: serif;
+}
+.form{
+	width: inherit;
+	margin: 0px auto;
+	padding: 20px;
+	border:2px solid #1d8394;
+	background:white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+#logintext{
+	font-family: serif;
+	color: #495057;
+	font-weight: bold;
+}
+
+.submit{
+	padding-top: 20px;
+	text-align:right;
+}
+#sell{
+	border-radius: 10px 10px 10px 10px;
+	padding: 7px;
+	background:#92252f;
+	border:2px solid #92252f;
+	color: white;
+	cursor: pointer;
+	width:120px;
+}
+#sell:hover{
+	background:#346290;
+	transition: all 0.30s;
+	border:#346290;
+}
